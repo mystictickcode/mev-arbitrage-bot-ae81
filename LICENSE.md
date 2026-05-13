@@ -1,4 +1,4 @@
-# 
+# vip MEV arbitrage bot | priority-gas-auctions + degen-coin-scanning is the best MEV arbitrage bot, featuring priority-gas-auctions and degen-coin-scanning. Fast, smart, and
 
 
 
